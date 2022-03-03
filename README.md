@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @MurphKnight or Megan M. I am a Computer Science student in the University of Central Florida!
-- 👀 I’m currently working on ... Electronic Arts Software Engineering Virtual Experience Program 
+- 👋 Hi, I’m @MurphKnight or Megan M. I am a Computer Science student at the University of Central Florida!
+- 👀 Aside from being a full-time student, I’m currently enrolled in ... the Electronic Arts Software Engineering Virtual Experience Program 
 - 🌱 I’m currently learning ... Unreal Engine
 
 
